@@ -1,0 +1,79 @@
+📚 Student Management System
+1. Add Student
+2. View Students
+3. Search Student by ID
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice (1-6): 1
+Enter Student ID: 101
+Enter Student Name: Alice
+Enter Marks: 85
+✅ Student added successfully!
+
+📚 Student Management System
+1. Add Student
+2. View Students
+3. Search Student by ID
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice (1-6): 2
+
+📋 Student Records:
+ID: 101, Name: Alice, Marks: 85
+
+📚 Student Management System
+1. Add Student
+2. View Students
+3. Search Student by ID
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice (1-6): 6
+👋 Exiting program. Goodbye!
+
+
+📚 Student Management System
+1. Add Student
+2. View Students
+3. Search Student by ID
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice (1-6): 1
+Enter Student ID: 102
+Enter Student Name: Bob
+Enter Marks: 72
+✅ Student added successfully!
+
+📚 Student Management System
+Enter your choice (1-6): 3
+Enter Student ID to search: 102
+🔍 Found: ID: 102, Name: Bob, Marks: 72
+
+📚 Student Management System
+Enter your choice (1-6): 4
+Enter Student ID to update: 102
+Enter new name: Bobby
+Enter new marks: 90
+✅ Student record updated!
+
+📚 Student Management System
+Enter your choice (1-6): 2
+
+📋 Student Records:
+ID: 102, Name: Bobby, Marks: 90
+
+📚 Student Management System
+Enter your choice (1-6): 5
+Enter Student ID to delete: 102
+🗑 Student record deleted!
+
+📚 Student Management System
+Enter your choice (1-6): 2
+⚠ No student records found.
+
+📚 Student Management System
+Enter your choice (1-6): 6
+👋 Exiting program. Goodbye!
